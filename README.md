@@ -18,7 +18,7 @@ Each row of data reports cumulative counts based on our best reporting up to the
 
 Both files contain [FIPS codes](https://www.census.gov/quickfacts/fact/note/US/fips), a standard geographic identifier, to make it easier for an analyst to combine this data with other data sets like a map file or population data.
 
-Download all the data or clone this repository by clicking the green "Clone or download" button above.
+Download all the data or clone this repository by clicking the green "Clone or download" button above, or make a private, server-side repo by selecting fork.
 
 ### State-Level Data
 
